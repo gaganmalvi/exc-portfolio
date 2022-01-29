@@ -1,8 +1,8 @@
 import React from "react";
 import { SocialIcon } from "react-social-icons";
-import Logo from "./logo";
+import Logo from "../images/logo";
 import { Link } from "react-router-dom";
-import gagan from "./assets/avatar/gagan.png"
+import gagan from "./../../assets/avatar/gagan.png"
 
 export default function About() {
     return (

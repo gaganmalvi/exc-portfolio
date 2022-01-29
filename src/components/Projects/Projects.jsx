@@ -1,6 +1,6 @@
 import React from "react";
 import { SocialIcon } from "react-social-icons";
-import Logo from "./logo";
+import Logo from "../images/logo";
 import { Link } from "react-router-dom";
 
 export default function Projects() {

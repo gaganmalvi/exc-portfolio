@@ -1,6 +1,6 @@
 import React, {useRef, useEffect} from "react";
 import gsap from "gsap";
-import MalviLogo from "./assets/avatar/gmlvi.svg"
+import MalviLogo from "./../../assets/avatar/gmlvi.svg"
 
 import "./Preloader.css";
 

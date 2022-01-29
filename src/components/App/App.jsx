@@ -1,8 +1,8 @@
 import { SocialIcon } from "react-social-icons";
 import "./App.css";
-import Logo from "./logo";
+import Logo from "./../images/logo";
 import { Link } from "react-router-dom";
-import PreLoader from "./Preloader";
+import PreLoader from "./../Preloader/Preloader";
 
 function App() {
   return (

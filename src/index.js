@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import App from './components/App/App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import About from './About';
-import Projects from './Projects';
+import About from './components/About/About';
+import Projects from './components/Projects/Projects';
 
 ReactDOM.render(
   <BrowserRouter>
