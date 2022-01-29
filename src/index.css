@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter');
+
+html, body, #root {
+	height: 100%;
+	width: 100%;
+  scroll-behavior: smooth;
+}
+
+#root {
+  background-image: url(./assets/backgrounds/bg1.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
