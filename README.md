@@ -1,5 +1,7 @@
 # Gagan's Portfolio Website
 
+- Project made and submitted for EXC course.
+
 ## Available Scripts
 
 In the project directory, you can run:
